@@ -1,8 +1,13 @@
 ## Hello there! 👋
-#### I'm Fernanda Mello, a Software Engineering student at PUCRS.
-| What I've learned so far                           	| Currently learning                     	|
-|----------------------------------------------------	|----------------------------------------	|
-| - Java</br>- JavaScript</br>- C</br>- SQL</br>- Apache Flink 	| - Node.js</br>- TypeScript</br>- React</br>- Docker 	|
+I'm Fernanda Mello, a Software Engineering student at PUCRS and a Backend Development intern at ilegra.
+
+### What have I learned so far?
+- **Java**: most of the code that I have written so far was written in Java. I also have experience with Spring, a few frameworks from Netflix OSS Stack, and web servers such as Tomcat.
+- **Other languages**: I've learned the basics of Bash, Python, Go, C, and JavaScript (including Node.js and Express), and I have used them on personal projects and college projects.
+- **Testing**: JUnit, Mockito, SonarCloud, Gatling, Test-Driven Development
+- **DevOps**: Docker, Vagrant, Ansible, Packer, Terraform, Jenkins, observability with ELK Stack
+- **Software design**: design patterns, Domain-Driven Design, Service-Oriented architecture and microservices
+- ...
 
 ### My GitHub stats
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=femelloffm&theme=nightowl&count_private=false&show_icons=true)
