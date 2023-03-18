@@ -1,12 +1,12 @@
 ## Hello there! 👋
-I'm Fernanda Mello, a Software Engineering student at PUCRS and a Backend Development intern at ilegra.
+I'm Fernanda Mello, a Software Engineering student at PUCRS and a Backend Developer at ilegra.
 
 ### What have I learned so far?
-- **Java**: most of the code that I have written so far was written in Java. I also have experience with Spring, a few frameworks from Netflix OSS Stack, and web servers such as Tomcat.
+- **Java**: most of the code that I have written so far was written in Java. I have experience with Spring MVC, Spring WebFlux, Spring for GraphQL, Spring for Apache Kafka, among other Spring projects.
 - **Other languages**: I've learned the basics of Bash, Python, Go, C, and JavaScript (including Node.js and Express), and I have used them on personal projects and college projects.
-- **Testing**: JUnit, Mockito, SonarCloud, Gatling, Test-Driven Development
-- **DevOps**: Docker, Vagrant, Ansible, Packer, Terraform, Jenkins, observability with ELK Stack
-- **Software design**: design patterns, Domain-Driven Design, Service-Oriented architecture and microservices
+- **Testing**: JUnit, Mockito, SonarCloud, JMeter, Test-Driven Development
+- **DevOps**: Docker, Vagrant, Ansible, Packer, Terraform, Jenkins, observability with ELK Stack and Dynatrace
+- **Software design**: design patterns, Domain-Driven Design, Service-Oriented architecture and microservices, Event-Driven architecure with Apache Kafka
 - ...
 
 ### My GitHub stats
